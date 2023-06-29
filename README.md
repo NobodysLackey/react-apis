@@ -46,6 +46,6 @@
 
 ### ***Credits***
 
-- [RAWG](https://rawg.io/)
+- [TMDB](https://www.themoviedb.org/?language=en-US)
 
 ***
