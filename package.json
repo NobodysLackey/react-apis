@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && cd dist && touch CNAME && echo 'https://react-apis.surge.sh/' >> CNAME && npx surge",
     "preview": "vite preview"
   },
   "dependencies": {
